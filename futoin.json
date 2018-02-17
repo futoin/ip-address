@@ -3,6 +3,7 @@
   "version": "5.8.10",
   "vcs": "git",
   "rms": "npm",
+  "rmsRepo": "https://www.npmjs.com",
   "toolTune": {
     "npm": {
       "access": "public"
