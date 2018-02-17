@@ -1,0 +1,11 @@
+{
+  "name": "@futoin/ip-address",
+  "version": "5.8.9",
+  "vcs": "git",
+  "rms": "npm",
+  "toolTune" : {
+    "npm" : {
+      "access" : "public"
+    }
+  }
+}
