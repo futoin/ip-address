@@ -1,5 +1,5 @@
 {
-  "name": "ip-address",
+  "name": "@futoin/ip-address",
   "description": "A library for parsing IPv4 and IPv6 IP addresses in node and the browser.",
   "keywords": [
     "ipv6",

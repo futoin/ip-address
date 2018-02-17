@@ -2,6 +2,7 @@
 
 var sprintf = require('sprintf-js').sprintf;
 var should = require('chai').should();
+//Object.freeze( Object.prototype );
 
 var Address4 = require('../lib/ipv4.js');
 

@@ -1,6 +1,7 @@
 'use strict';
 
 var should = require('chai').should();
+//Object.freeze( Object.prototype );
 
 var ip = require('..');
 
